@@ -1,0 +1,10 @@
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\bin\Debug\MobilePhoneRecords.exe.config
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\bin\Debug\MobilePhoneRecords.exe
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\bin\Debug\MobilePhoneRecords.pdb
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\bin\Debug\MobilePhoneRecords.xml
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.vbprojResolveAssemblyReference.cache
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.Resources.resources
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.vbproj.GenerateResource.Cache
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.exe
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.xml
+c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.pdb
