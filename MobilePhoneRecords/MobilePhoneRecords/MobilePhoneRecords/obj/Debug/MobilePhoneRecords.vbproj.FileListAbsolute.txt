@@ -8,3 +8,7 @@ c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePh
 c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.exe
 c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.xml
 c:\users\bambo\documents\visual studio 2015\Projects\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.pdb
+C:\Users\bambo\Documents\GitHub\MobilePhoneRecords\MobilePhoneRecords\MobilePhoneRecords\bin\Debug\MobilePhoneRecords.exe.config
+C:\Users\bambo\Documents\GitHub\MobilePhoneRecords\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.exe
+C:\Users\bambo\Documents\GitHub\MobilePhoneRecords\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.xml
+C:\Users\bambo\Documents\GitHub\MobilePhoneRecords\MobilePhoneRecords\MobilePhoneRecords\obj\Debug\MobilePhoneRecords.pdb
