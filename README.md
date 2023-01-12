@@ -5,3 +5,9 @@ it a complete project:
 <li>database</li>
 <li>backend</li>
 <li>frontend</li>
+
+## how to access on windows
+
+For ease of use in pulling request is to download github desktop.
+Once that happens the next step is to clone the repository.
+Create a fork in github. Select the option 'To contribute to the parent project'
