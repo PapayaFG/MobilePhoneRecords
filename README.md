@@ -9,5 +9,9 @@ it a complete project:
 ## how to access on windows
 
 For ease of use in pulling request is to download github desktop.
-Once that happens the next step is to clone the repository.
-Create a fork in github. Select the option 'To contribute to the parent project'
+<br>
+Once that happens then the next step is to clone the repository.
+
+Create a fork in github.
+
+Select the option 'To contribute to the parent project'
